@@ -1,0 +1,96 @@
+
+h2{
+    text-align: center;
+    padding: 20px ;
+
+}
+label{
+    font-weight: bold;
+}
+hr{
+    width: 30%;
+}
+.mregister{
+    margin-top: 100px;
+    background-color: white;
+    margin: 0 auto;
+    padding-left: 40px;
+    color: black;
+    font-size: 14px;
+    border: 1px solid black;
+    width: 95%;
+    height: 512px;
+    overflow-y: scroll;
+}
+#mregister{
+    padding-top: 50px;
+}
+#name{
+    margin-left: 6px;
+    width: 350px;
+    border: 1px solid black;
+    border-radius: 3px;
+    outline: 0px;
+    padding: 5px;
+    height: 28px;
+}
+.btn{
+    border-radius: 3px;
+    outline: 0px;
+    padding: 6px;
+    width: 100px;
+    background: gray;
+    border: none;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.btn2{
+    border-radius: 3px;
+    outline: 0px;
+    padding: 6px;
+    width: 100px;
+    background: gray;
+    border: none;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 10px; 
+}
+
+.btn:hover {
+    background: #095ead;
+    color: #fff;
+    cursor: pointer;
+}
+
+input[type=radio]:not(old){
+    width: 28px;
+}
+#rbutton{
+    width: 5em;
+    height: 1.5em;
+}
+#long{
+    height: 28px;
+    margin-left: 6px;
+    width: 500px;
+    padding: 6px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+#pa{
+    height: 28px;
+    margin-left: 6px;
+    width: 700px;
+    padding: 6px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+#number{
+    height: 28px;
+    margin-left: 6px;
+    padding: 6px;
+    border-radius: 3px;
+    border: 1px solid black;
+    width: 200px;
+}
